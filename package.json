@@ -7,9 +7,10 @@
   "name": "api-pp-discord",
   "version": "1.0.0",
   "description": "simple api that return discord user profil picture",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "node index.js"
+    "run": "node app.js",
+    "test": "node app.js"
   },
   "author": "Loutre",
   "license": "ISC"
