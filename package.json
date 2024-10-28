@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "name": "api-pp-discord",
+  "version": "1.0.0",
+  "description": "simple api that return discord user profil picture",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Loutre",
+  "license": "ISC"
+}
